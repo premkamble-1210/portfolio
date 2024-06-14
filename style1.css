@@ -299,6 +299,17 @@ body{
     .intro_description, .intro_img {
         margin: 1rem 0;
     }
+    .img_secter img{
+  max-width: 40vmax;
+    }
+    body{
+        overflow-x: hidden;
+    }
+    .intro {
+        flex-direction: column;
+        height: auto;
+        margin-top: 300px;
+    }
     /* .intro_description {
         margin-top:3rem;
     } */
