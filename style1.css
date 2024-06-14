@@ -463,13 +463,13 @@ body{
     z-index: 0.9;
 }
 .iframe_div {
-    width: 87%; /* Adjust width to fit within the mac screen */
+    width: 83%; /* Adjust width to fit within the mac screen */
     height: 80%; /* Adjust height to fit within the mac screen */
     border: none;
     border-radius: 1rem;
     position: absolute; /* Position iframe absolutely within .screen_png */
     top: 10%; /* Adjust top to center iframe within the mac screen */
-    left: 5%; /* Adjust left to center iframe within the mac screen */
+    left: 7%; /* Adjust left to center iframe within the mac screen */
     z-index:0.9; 
     margin-left: 1rem;/* Place the iframe above the image */
 }
